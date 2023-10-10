@@ -1,9 +1,9 @@
 # AnotherZombieGame3.0
 
 ## Equipo 7
-José Antonio Romo
-Renato González
-Ricardo Salvador
+1. José Antonio Romo
+2. Renato González
+3. Ricardo Salvador
 
 ## Instrucciones de como usar GitHub Desktop
 1. Clonar repositorio.
