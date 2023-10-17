@@ -1,4 +1,4 @@
-# AnotherZombieGame3.0
+# Cat Slayer
 
 ## Equipo 7
 1. José Antonio Romo
