@@ -1,4 +1,4 @@
-# Cat Slayer
+# CATastrophe
 
 ## Equipo 7
 1. José Antonio Romo
