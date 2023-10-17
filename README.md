@@ -1,4 +1,4 @@
-# CATastrophe
+# Cat-astrophe
 
 ## Equipo 7
 1. José Antonio Romo
